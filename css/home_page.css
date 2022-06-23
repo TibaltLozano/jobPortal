@@ -1,0 +1,54 @@
+nav .navbar-collapse ul{
+    margin-left: auto !important;
+}
+
+.overlay{
+    background: rgba(128,142,176, 0.1) !important;
+}
+
+.home .pricing-plan{
+    margin-top: 3rem;
+    border-radius: 50%;
+    opacity: 0.9;
+}
+
+.pricing-plan::hover{
+    opacity: 1;
+}
+
+.pricing-name{
+    margin: auto !important;
+}
+
+.pricing-name h4, i{
+    color: white;
+}
+
+.blog1{
+    background-image: url('../images/special/blog-1.jpg');
+    background-size: 100%;
+}
+
+.blog2{
+    background-image: url('../images/special/blog-2.jpg');
+    background-size: 100%;
+}
+
+.blog3{
+    background-image: url('../images/special/blog-3.jpg');
+    background-size: 100%;
+}
+
+.blog4{
+    background-image: url('../images/special/blog-4.jpg');
+    background-size: 100%;
+}
+
+.blog5{
+    background-image: url('../images/special/blog-5.jpg');
+    background-size: 100%;
+}
+.blog6{
+    background-image: url('../images/special/blog-1.jpg');
+    background-size: 100%;
+}
